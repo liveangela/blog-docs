@@ -4,7 +4,9 @@ description: 清 沈孝瞻
 
 # 《子平真诠》
 
-在线阅读：[地址](https://www.zhonghuadiancang.com/xuanxuewushu/zipingzhenquan/)
+始于2021.6.23
+
+在线阅读[地址](https://www.zhonghuadiancang.com/xuanxuewushu/zipingzhenquan/)
 
 ## 摘抄节选
 

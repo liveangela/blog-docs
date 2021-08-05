@@ -4,7 +4,9 @@ description: 以太坊入门书籍，涉及所有概念，小白必备
 
 # 《Ethereumbook》
 
-线上阅读：[地址](https://github.com/ethereumbook/ethereumbook)
+始于2021.6.18
+
+在线阅读[地址](https://github.com/ethereumbook/ethereumbook)
 
 ## 摘抄节选
 
