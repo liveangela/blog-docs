@@ -11,7 +11,8 @@
 
 ## 技术文档 <a id="practice"></a>
 
-* [编程](practice/coding.md)
+* [编程](practice/coding/README.md)
+  * [区块链名词解释](practice/coding/blockchain-words.md)
 
 ## 纪要 <a id="record"></a>
 
