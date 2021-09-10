@@ -29,3 +29,7 @@ description: 从入股到入土
 
 * TTM比动态和静态PE都低，则把握更大
 
+## 参考
+
+* [选股的逻辑是怎样的](https://zhuanlan.zhihu.com/p/346407007)
+
