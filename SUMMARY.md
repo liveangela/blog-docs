@@ -10,6 +10,7 @@
   * [《子平真诠》](read/yi/zipingzhenquan.md)
   * [《滴天髓 上篇》](read/yi/di-tian-sui-shang-pian.md)
   * [《滴天髓 下篇》](read/yi/di-tian-sui-xia-pian.md)
+  * [《三命通会》](read/yi/san-ming-tong-hui.md)
 * [金融](read/finance.md)
   * [《如何不靠运气致富》](<read/finance/How to Get Rich.md>)
 
