@@ -18,6 +18,7 @@
 
 * [编程](practice/coding/README.md)
   * [区块链名词解释](practice/coding/blockchain-words.md)
+  * [Excel高级拆表](practice/coding/excel-spliter.md)
 * [投资](practice/investment/README.md)
   * [股市心得](practice/investment/stock-exp.md)
 
