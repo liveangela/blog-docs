@@ -7,6 +7,7 @@
 * [计算机](read/computer/README.md)
   * [《Ethereumbook》](read/computer/etherumbook.md)
 * [周易](read/yi/README.md)
+  * [《易学入门》](read/yi/yi-xue-ru-men.md)
   * [《子平真诠》](read/yi/zipingzhenquan.md)
   * [《滴天髓 上篇》](read/yi/di-tian-sui-shang-pian.md)
   * [《滴天髓 下篇》](read/yi/di-tian-sui-xia-pian.md)
