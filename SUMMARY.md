@@ -22,6 +22,7 @@
   * [Excel高级拆表](practice/coding/excel-spliter.md)
 * [投资](practice/investment/README.md)
   * [股市心得](practice/investment/stock-exp.md)
+  * [交易名词解释](practice/investment/trading-words.md)
 
 ## 纪要 <a href="#record" id="record"></a>
 
