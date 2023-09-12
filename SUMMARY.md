@@ -14,6 +14,7 @@
   * [《三命通会》](read/yi/san-ming-tong-hui.md)
 * [金融](read/finance.md)
   * [《如何不靠运气致富》](<read/finance/How to Get Rich.md>)
+  * [《趋势投资》](read/finance/investment-by-trend.md)
 
 ## 技术文档 <a href="#practice" id="practice"></a>
 
